@@ -40,15 +40,19 @@ Native Android app that helps users manage their pantry inventory, track food ex
 
 ### 🔹 Pharmacy Inventory Management System (2026)
 
-Desktop inventory and point-of-sale system built for a local pharmacy, Life_Style, to manage medicines, suppliers, stock, sales, and system users.
+Desktop inventory and point-of-sale system for a local pharmacy, built with Java and MySQL. It covers medicine and supplier management, checkout and billing, and sales reporting, with separate interfaces for administrators and cashiers.
 
-- Developed separate interfaces for administrators and cashiers, so each role only sees the tools it needs.
-- Built modules to manage medicines, suppliers, stock levels, and sales transactions.
-- Connected the Java application to a MySQL database using JDBC for persistent data storage.
-- Designed the graphical user interface with Java Swing/AWT.
+- Implemented **role-based authentication** so administrators and cashiers each get their own interface, and cashiers cannot modify medicines, suppliers, or user accounts.
+- Built full **CRUD functionality** for medicines, suppliers, and cashier accounts in the administrator dashboard.
+- Developed a **cashier point-of-sale** module with a shopping cart, quantity adjustment, and checkout that validates stock availability and expiry status before completing a sale.
+- Automated **stock deduction** after each successful sale, and added a stock-check screen where cashiers can search medicines by price, availability, and expiry date.
+- Generated **customer bills** (sale number, date, cashier, items, quantities, total) that can be printed or saved as text files.
+- Created four **administrator reports**: Sales, Item-Wise Sales, Low Stock (items at or below reorder level), and Medicine Expiry.
+- Designed a relational **MySQL schema** with foreign key relationships and sample data, connected to the Java application through JDBC.
+- Packaged the application as a **standalone Windows executable** that bundles the Java runtime.
 - **Tools:** Java, Swing/AWT, JDBC, MySQL, IntelliJ IDEA, MySQL Workbench
 
-🔗 View repository - https://github.com/mazibukobaldwin55/Pharmacy-Inventory-Management-System
+🔗 View repository - https://github.com/mazibukobaldwin55/Pharma-Inventory-Management-System
 
 ## 🎓 Certifications
 
