@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm **Baldwin Mazibuko** (Sihle Baldwin Mazibuko), a final-year BSc Information Technology (Data Science) student at Richfield College. I enjoy building practical software, from Android apps to database-driven desktop systems, and I'm growing my skills in data analytics and machine learning.
+I'm **Sihle Baldwin Mazibuko**, a final-year BSc Information Technology (Data Science) student at Richfield College. I enjoy building practical software, from Android apps to database-driven desktop systems, and I'm growing my skills in data analytics and machine learning.
 
 ## 🌱 Currently Learning
 
