@@ -56,7 +56,7 @@ Desktop inventory and point-of-sale system for a local pharmacy, built with Java
 
 ## 🎓 Certifications
 
-- **Microsoft Azure Fundamentals (AZ-900)** — Microsoft, via Coursera (2026). Covers core Azure services, cloud pricing models, security, and compliance, with practical understanding of Azure compute, storage, networking, and identity services.
+- **Microsoft Azure Fundamentals (AZ-900)** — Microsoft, via Coursera (2026).Covers core Azure services, cloud pricing models, security, and compliance, with practical understanding of Azure compute, storage, networking, and identity services.
 
 ## 🎯 Goals
 
@@ -68,6 +68,7 @@ Desktop inventory and point-of-sale system for a local pharmacy, built with Java
 ## 📫 Connect with Me
 
 📍 Johannesburg, Gauteng · 📧 [mazibukobaldwin55@gmail.com]
+
 Feel free to connect with me and follow my learning journey!
 
 > *"Every expert was once a beginner. Keep learning, keep growing."* 🚀
